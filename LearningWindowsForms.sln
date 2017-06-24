@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{D538F4E7-939A-4933-A36A-DB68930C9834}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SampleDB", "SampleDB\SampleDB.sqlproj", "{30EB1842-BA5E-47E1-A37F-52BACB375F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{D538F4E7-939A-4933-A36A-DB68930C9834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D538F4E7-939A-4933-A36A-DB68930C9834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D538F4E7-939A-4933-A36A-DB68930C9834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EB1842-BA5E-47E1-A37F-52BACB375F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EB1842-BA5E-47E1-A37F-52BACB375F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EB1842-BA5E-47E1-A37F-52BACB375F2E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{30EB1842-BA5E-47E1-A37F-52BACB375F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EB1842-BA5E-47E1-A37F-52BACB375F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EB1842-BA5E-47E1-A37F-52BACB375F2E}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
